@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F9D63BC9-2423-4A58-B52E-C0B9B97B4083</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BSJSONAdditions</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>17906249582689F06DA81FAED52DECC18F42E3D6</key>
+		<string>https://github.com/Lwgfangz/bsjsonadditions.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BSJSONAdditions.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>17906249582689F06DA81FAED52DECC18F42E3D6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Lwgfangz/bsjsonadditions.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>17906249582689F06DA81FAED52DECC18F42E3D6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>17906249582689F06DA81FAED52DECC18F42E3D6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bsjsonadditions</string>
+		</dict>
+	</array>
+</dict>
+</plist>
