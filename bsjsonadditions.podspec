@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "bsjsonadditions"
-  s.version          = "1.0.1"
+  s.version          = "1.0.2"
   s.summary          = "jsongstring转成NSDictionry"
   s.description      = <<-DESC
 		       这个库已经5年没有人维护了,我重新维护起来.
